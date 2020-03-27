@@ -6,9 +6,5 @@ import org.junit.Test;
 
 public class RobotStatiqueTest {
 
-	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
 
 }
